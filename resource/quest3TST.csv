@@ -1,0 +1,293 @@
+Id,formaleducation,companysize
+0,I never completed any formal education,500 to 999 employees
+1,I never completed any formal education,"1,000 to 4,999 employees"
+2,I never completed any formal education,100 to 499 employees
+3,I never completed any formal education,"10,000 or more employees"
+4,I never completed any formal education,100 to 499 employees
+5,I never completed any formal education,Fewer than 10 employees
+6,I never completed any formal education,Fewer than 10 employees
+7,I never completed any formal education,"10,000 or more employees"
+8,I never completed any formal education,20 to 99 employees
+9,I never completed any formal education,20 to 99 employees
+10,I never completed any formal education,20 to 99 employees
+11,I never completed any formal education,Fewer than 10 employees
+12,I never completed any formal education,"10,000 or more employees"
+13,I never completed any formal education,10 to 19 employees
+14,I never completed any formal education,20 to 99 employees
+15,I never completed any formal education,100 to 499 employees
+16,I never completed any formal education,10 to 19 employees
+17,I never completed any formal education,20 to 99 employees
+18,I never completed any formal education,Fewer than 10 employees
+19,I never completed any formal education,100 to 499 employees
+20,I never completed any formal education,"1,000 to 4,999 employees"
+21,I never completed any formal education,100 to 499 employees
+22,I never completed any formal education,Fewer than 10 employees
+23,I never completed any formal education,Fewer than 10 employees
+24,I never completed any formal education,Fewer than 10 employees
+25,I never completed any formal education,Fewer than 10 employees
+26,I never completed any formal education,Fewer than 10 employees
+27,I never completed any formal education,10 to 19 employees
+28,I never completed any formal education,Fewer than 10 employees
+29,I never completed any formal education,20 to 99 employees
+30,I never completed any formal education,Fewer than 10 employees
+31,I never completed any formal education,Fewer than 10 employees
+32,I never completed any formal education,100 to 499 employees
+33,I never completed any formal education,20 to 99 employees
+34,I never completed any formal education,"10,000 or more employees"
+35,I never completed any formal education,20 to 99 employees
+36,I never completed any formal education,100 to 499 employees
+37,I never completed any formal education,"10,000 or more employees"
+38,I never completed any formal education,100 to 499 employees
+39,I never completed any formal education,Fewer than 10 employees
+40,I never completed any formal education,Fewer than 10 employees
+41,I never completed any formal education,"10,000 or more employees"
+42,I never completed any formal education,20 to 99 employees
+43,I never completed any formal education,100 to 499 employees
+44,I never completed any formal education,20 to 99 employees
+45,I never completed any formal education,"5,000 to 9,999 employees"
+46,I never completed any formal education,"5,000 to 9,999 employees"
+47,I never completed any formal education,Fewer than 10 employees
+48,I never completed any formal education,500 to 999 employees
+49,I never completed any formal education,Fewer than 10 employees
+50,I never completed any formal education,10 to 19 employees
+51,I never completed any formal education,Fewer than 10 employees
+52,I never completed any formal education,"1,000 to 4,999 employees"
+53,I never completed any formal education,Fewer than 10 employees
+54,I never completed any formal education,"10,000 or more employees"
+55,I never completed any formal education,Fewer than 10 employees
+56,I never completed any formal education,Fewer than 10 employees
+57,I never completed any formal education,20 to 99 employees
+58,I never completed any formal education,100 to 499 employees
+59,I never completed any formal education,Fewer than 10 employees
+60,I never completed any formal education,100 to 499 employees
+61,I never completed any formal education,100 to 499 employees
+62,I never completed any formal education,20 to 99 employees
+63,I never completed any formal education,Fewer than 10 employees
+64,Primary/elementary school,Fewer than 10 employees
+65,Primary/elementary school,10 to 19 employees
+66,Primary/elementary school,20 to 99 employees
+67,Primary/elementary school,10 to 19 employees
+68,Primary/elementary school,"1,000 to 4,999 employees"
+69,Primary/elementary school,100 to 499 employees
+70,Primary/elementary school,10 to 19 employees
+71,Primary/elementary school,20 to 99 employees
+72,Primary/elementary school,10 to 19 employees
+73,Primary/elementary school,"10,000 or more employees"
+74,Primary/elementary school,"10,000 or more employees"
+75,Primary/elementary school,"1,000 to 4,999 employees"
+76,Primary/elementary school,"5,000 to 9,999 employees"
+77,Primary/elementary school,Fewer than 10 employees
+78,Primary/elementary school,"10,000 or more employees"
+79,Primary/elementary school,"5,000 to 9,999 employees"
+80,Primary/elementary school,20 to 99 employees
+81,Primary/elementary school,20 to 99 employees
+82,Primary/elementary school,500 to 999 employees
+83,Primary/elementary school,100 to 499 employees
+84,Primary/elementary school,500 to 999 employees
+85,Primary/elementary school,20 to 99 employees
+86,Primary/elementary school,20 to 99 employees
+87,Primary/elementary school,Fewer than 10 employees
+88,Primary/elementary school,20 to 99 employees
+89,Primary/elementary school,Fewer than 10 employees
+90,Primary/elementary school,20 to 99 employees
+91,Primary/elementary school,20 to 99 employees
+92,Primary/elementary school,10 to 19 employees
+93,Primary/elementary school,100 to 499 employees
+94,Primary/elementary school,20 to 99 employees
+95,Primary/elementary school,20 to 99 employees
+96,Primary/elementary school,10 to 19 employees
+97,Primary/elementary school,20 to 99 employees
+98,Primary/elementary school,"10,000 or more employees"
+99,Primary/elementary school,"5,000 to 9,999 employees"
+100,Primary/elementary school,20 to 99 employees
+101,Primary/elementary school,Fewer than 10 employees
+102,Primary/elementary school,100 to 499 employees
+103,Primary/elementary school,20 to 99 employees
+104,Primary/elementary school,"10,000 or more employees"
+105,Primary/elementary school,20 to 99 employees
+106,Primary/elementary school,Fewer than 10 employees
+107,Primary/elementary school,"1,000 to 4,999 employees"
+108,Primary/elementary school,100 to 499 employees
+109,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+110,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",500 to 999 employees
+111,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+112,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+113,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",500 to 999 employees
+114,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+115,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+116,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+117,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+118,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+119,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+120,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+121,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+122,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+123,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+124,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+125,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+126,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+127,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+128,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+129,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+130,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+131,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+132,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+133,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+134,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+135,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+136,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+137,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+138,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+139,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+140,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+141,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",500 to 999 employees
+142,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+143,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+144,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+145,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",500 to 999 employees
+146,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+147,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","5,000 to 9,999 employees"
+148,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+149,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+150,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+151,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+152,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+153,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+154,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+155,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+156,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+157,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+158,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+159,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+160,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+161,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+162,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+163,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+164,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+165,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+166,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+167,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+168,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+169,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+170,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+171,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+172,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",500 to 999 employees
+173,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+174,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",500 to 999 employees
+175,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+176,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+177,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+178,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+179,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+180,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+181,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+182,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+183,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+184,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+185,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+186,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+187,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+188,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+189,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+190,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","5,000 to 9,999 employees"
+191,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+192,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+193,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+194,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+195,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+196,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+197,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+198,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+199,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+200,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+201,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+202,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+203,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+204,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+205,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+206,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+207,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+208,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+209,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+210,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+211,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+212,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+213,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+214,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+215,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+216,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+217,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+218,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+219,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+220,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+221,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+222,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+223,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","5,000 to 9,999 employees"
+224,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+225,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+226,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+227,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+228,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+229,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+230,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+231,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+232,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+233,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+234,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","5,000 to 9,999 employees"
+235,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+236,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+237,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+238,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+239,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+240,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+241,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+242,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+243,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+244,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+245,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+246,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+247,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+248,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+249,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+250,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+251,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+252,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+253,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+254,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+255,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+256,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+257,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+258,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+259,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+260,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+261,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+262,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+263,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+264,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+265,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+266,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+267,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+268,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+269,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+270,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+271,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+272,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+273,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+274,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+275,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+276,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+277,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","5,000 to 9,999 employees"
+278,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+279,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","1,000 to 4,999 employees"
+280,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",10 to 19 employees
+281,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+282,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+283,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)","10,000 or more employees"
+284,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+285,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",500 to 999 employees
+286,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
+287,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+288,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",Fewer than 10 employees
+289,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",500 to 999 employees
+290,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",100 to 499 employees
+291,"Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",20 to 99 employees
