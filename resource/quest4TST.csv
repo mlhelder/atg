@@ -1,4 +1,4 @@
-Id,country,yearscoding,yearscodingprof,jobsatisfaction,careersatisfaction,gender
+id,country,yearscoding,yearscodingprof,jobsatisfaction,careersatisfaction,gender
 295,Nigeria,0-2 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
 296,India,0-2 years,3-5 years,Slightly satisfied,Extremely satisfied,Female
 297,United States,6-8 years,0-2 years,Extremely dissatisfied,Moderately satisfied,Female

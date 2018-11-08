@@ -1,4 +1,4 @@
-Id,formaleducation,jobsearchstatus,educationtypes,gender,age
+id,formaleducation,jobsearchstatus,educationtypes,gender,age
 667,"Bachelorâ€™s degree (BA, BS, B.Eng., etc.)","Iâ€™m not actively looking, but I am open to new opportunities",Received on-the-job training in software development;Contributed to open source software,Male,25 - 34 years old
 668,"Bachelorâ€™s degree (BA, BS, B.Eng., etc.)",I am actively looking for a job,NA,Male,25 - 34 years old
 669,Some college/university study without earning a degree,I am actively looking for a job,Taken an online course in programming or software development (e.g. a MOOC),Male,35 - 44 years old
