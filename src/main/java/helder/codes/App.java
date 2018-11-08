@@ -13,6 +13,7 @@ import com.opencsv.bean.CsvToBeanBuilder;
 import com.opencsv.bean.HeaderColumnNameMappingStrategy;
 
 
+// TODO: Auto-generated Javadoc
 /**
  * The Main class of atg project.
  */
@@ -26,6 +27,9 @@ public class App {
 	
 	/** The Constant SAMPLE_CSV_FILE_PATH4. */
 	private static final String SAMPLE_CSV_FILE_PATH4 = "/home/helder/codes/atg/resource/quest4TST.csv";
+	
+	/** The Constant SAMPLE_CSV_FILE_PATH1. */
+	private static final String SAMPLE_CSV_FILE_PATH1 = "/home/helder/codes/atg/resource/quest1TST.csv";
     
 	/**
 	 *	Question: Analisar a situação de trabalho dos brasileiros graduados ou com algum estudo e sem diploma que não conseguiram emprego.
@@ -152,33 +156,97 @@ public class App {
 		return graph;	   
 	}
 	
+	/**
+	 * Question: Investigar quais são as linguagens de programação mais utilizadas entre os profissionais na área de TI mais bem pagos.
+	 * Vértice: Pessoas empregadas na área de TI mais bem pagas.
+	 * Aresta: Linguagens de programação em comum.
+	 * Ordenação: Não ordenado.
+	 * Peso: Não possui.
+	 *
+	 * @return the graph for question 4
+	 * @throws IOException Signals that an I/O exception has occurred.
+	 */
+	@SuppressWarnings("deprecation")
+	public static Pseudograph<MyUserQ1, DefaultWeightedEdge> createQuest1() throws IOException {
+		Reader reader = Files.newBufferedReader(Paths.get(SAMPLE_CSV_FILE_PATH1));
+		
+		HeaderColumnNameMappingStrategy<MyUserQ1> beanStrategy = new HeaderColumnNameMappingStrategy<MyUserQ1>();
+		beanStrategy.setType(MyUserQ1.class);
+		
+        CsvToBean<MyUserQ1> csvToBean = new CsvToBeanBuilder<MyUserQ1>(reader)
+                .withType(MyUserQ1.class)
+                .withIgnoreLeadingWhiteSpace(true)
+                .build();
 
+		List<MyUserQ1> nodeList = csvToBean.parse(beanStrategy, reader);
+		
+		Pseudograph<MyUserQ1, DefaultWeightedEdge>  graph = new Pseudograph<MyUserQ1, DefaultWeightedEdge>(DefaultWeightedEdge.class); 
+			
+		for (MyUserQ1 node : nodeList) {
+			graph.addVertex(node);
+		}
+		for (MyUserQ1 node : nodeList) {
+			for (MyUserQ1 nodeAux : nodeList) {
+				if (testLanguages(node,nodeAux)) {
+					graph.addEdge(node, nodeAux);
+				}
+			}
+		}
+		reader.close();
+		return graph;	   
+	}
+	
+	/**
+	 * Aux function to Test languages.
+	 *
+	 * @param for node
+	 * @param second node
+	 * @return true, if contains similar language
+	 */
+	private static boolean testLanguages(MyUserQ1 node ,MyUserQ1 aux) {
+		String[] nodeLanguages = node.getLanguageworkedwith().split(";");
+		String[] auxLanguages = aux.getLanguageworkedwith().split(";");
+		for (String language : nodeLanguages) {
+			for (String auxLanguage : auxLanguages) {
+				if(language.equals(auxLanguage)) {
+					return true;
+				}				
+			}
+		}
+		return false;
+	}
+	
     /**
      * The main method to create all questions graphs.
      *
-     * @param no need3,
+     * @param args the arguments
      * @throws IOException Signals that an I/O exception has occurred.
      */
     public static void main(String[] args) throws IOException {
     	Pseudograph<MyUserQ3, DefaultWeightedEdge> graph3 = createQuest3();
     	Pseudograph<MyUserQ4, DefaultWeightedEdge> graph4 = createQuest4();
     	Pseudograph<MyUserQ2, DefaultWeightedEdge> graph2 = createQuest2();
-    	
+    	Pseudograph<MyUserQ1, DefaultWeightedEdge> graph1 = createQuest1();
+    
+        assert(graph1.vertexSet().size() != 0);
         assert(graph2.vertexSet().size() != 0);
         assert(graph3.vertexSet().size() != 0);
         assert(graph4.vertexSet().size() != 0);
         
+        assert(graph1.edgeSet().size() != 0);
         assert(graph2.edgeSet().size() != 0);
         assert(graph3.edgeSet().size() != 0);
         assert(graph4.edgeSet().size() != 0);
-        
-        System.out.println("Lista de nós questao 2 = " + graph2.edgeSet());
-        System.out.println("Lista de nós questao 3 = " + graph3.edgeSet());
-        System.out.println("Lista de nós questao 3 = " +  graph4.edgeSet());
-        
-        System.out.println("Lista de vertices questao 2 = " +  graph2.vertexSet());
-        System.out.println("Lista de vertices questao 3 = " +  graph3.vertexSet());
-        System.out.println("Lista de vertices questao 4 = " +  graph4.vertexSet());
+
+        System.out.println("Número de arestas questao 1 = " + graph1.edgeSet().size());
+        System.out.println("Lista de arestas questao 2 = " + graph2.edgeSet());
+        System.out.println("Lista de arestas questao 3 = " + graph3.edgeSet());
+        System.out.println("Lista de arestas questao 4 = " +  graph4.edgeSet());
+
+        System.out.println("Número de vértices questao 1 = " +  graph1.vertexSet().size());
+        System.out.println("Lista de vértices questao 2 = " +  graph2.vertexSet());
+        System.out.println("Lista de vértices questao 3 = " +  graph3.vertexSet());
+        System.out.println("Lista de vértices questao 4 = " +  graph4.vertexSet());
 
     }
 }
