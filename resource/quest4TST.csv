@@ -1,422 +1,287 @@
 id,country,yearscoding,yearscodingprof,jobsatisfaction,careersatisfaction,gender
-295,Nigeria,0-2 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
-296,India,0-2 years,3-5 years,Slightly satisfied,Extremely satisfied,Female
-297,United States,6-8 years,0-2 years,Extremely dissatisfied,Moderately satisfied,Female
-298,United States,3-5 years,3-5 years,Moderately dissatisfied,Moderately satisfied,Female
-299,Russian Federation,24-26 years,24-26 years,NA,Neither satisfied nor dissatisfied,Female
-300,Ukraine,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
-301,Brazil,3-5 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
-302,Germany,6-8 years,0-2 years,Moderately satisfied,Neither satisfied nor dissatisfied,Female
-303,Brazil,6-8 years,6-8 years,Slightly dissatisfied,Moderately dissatisfied,Female
-304,Brazil,3-5 years,3-5 years,Moderately dissatisfied,Moderately dissatisfied,Female
-305,India,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-306,India,15-17 years,12-14 years,Moderately satisfied,Moderately satisfied,Female
-307,United States,3-5 years,3-5 years,Moderately dissatisfied,Slightly dissatisfied,Female
-308,Mexico,9-11 years,3-5 years,Extremely dissatisfied,Extremely dissatisfied,Female
-309,United States,12-14 years,6-8 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
-310,United States,30 or more years,30 or more years,Slightly dissatisfied,Slightly dissatisfied,Female
-311,Germany,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-312,France,6-8 years,NA,NA,NA,Female
-313,United States,15-17 years,9-11 years,Extremely satisfied,Moderately satisfied,Female
-314,United States,24-26 years,24-26 years,Moderately dissatisfied,Slightly satisfied,Female
-315,France,9-11 years,6-8 years,Extremely satisfied,Moderately satisfied,Female
-316,United Kingdom,12-14 years,6-8 years,Extremely satisfied,Moderately satisfied,Female
-317,India,6-8 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
-318,United States,9-11 years,0-2 years,Slightly dissatisfied,Moderately satisfied,Female
-319,United Kingdom,0-2 years,0-2 years,Moderately dissatisfied,Slightly dissatisfied,Female
-320,India,3-5 years,3-5 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
-321,Belgium,6-8 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
-322,Australia,6-8 years,6-8 years,Extremely satisfied,Extremely satisfied,Female
-323,United States,0-2 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
-324,India,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Slightly satisfied,Female
-325,Finland,3-5 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
-326,India,0-2 years,0-2 years,Moderately satisfied,Moderately dissatisfied,Female
-327,Russian Federation,3-5 years,0-2 years,Slightly satisfied,Slightly dissatisfied,Female
-328,United Kingdom,9-11 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
-329,Bulgaria,12-14 years,12-14 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
-330,Israel,21-23 years,18-20 years,Moderately satisfied,Moderately satisfied,Female
-331,United States,12-14 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-332,India,0-2 years,0-2 years,Slightly satisfied,Slightly dissatisfied,Female
-333,United States,3-5 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
-334,India,18-20 years,18-20 years,Slightly dissatisfied,Extremely satisfied,Female
-335,Spain,0-2 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
-336,United States,3-5 years,3-5 years,Neither satisfied nor dissatisfied,Moderately dissatisfied,Female
-337,United States,3-5 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
-338,Philippines,0-2 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
-339,Sri Lanka,0-2 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
-340,India,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-341,Bosnia and Herzegovina,6-8 years,9-11 years,Moderately satisfied,Extremely satisfied,Female
-342,Romania,9-11 years,3-5 years,Moderately satisfied,Slightly dissatisfied,Female
-343,Germany,6-8 years,3-5 years,Moderately satisfied,Neither satisfied nor dissatisfied,Female
-344,Nigeria,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
-345,United States,12-14 years,12-14 years,Slightly dissatisfied,Slightly satisfied,Female
-346,United States,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-347,Germany,15-17 years,12-14 years,Slightly satisfied,Moderately satisfied,Female
-348,Germany,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-349,India,6-8 years,3-5 years,Slightly dissatisfied,Extremely satisfied,Female
-350,South Korea,15-17 years,9-11 years,Slightly satisfied,Moderately dissatisfied,Female
-351,United States,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-352,United States,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
-353,United States,3-5 years,NA,NA,NA,Female
-354,Thailand,6-8 years,0-2 years,Neither satisfied nor dissatisfied,Extremely dissatisfied,Female
-355,Italy,6-8 years,3-5 years,Slightly dissatisfied,Slightly satisfied,Female
-356,Chile,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-357,United States,0-2 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
-358,Turkey,3-5 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
-359,United States,6-8 years,3-5 years,Slightly satisfied,Slightly satisfied,Female
-360,Canada,3-5 years,0-2 years,Slightly dissatisfied,Moderately dissatisfied,Female
-361,India,3-5 years,0-2 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
-362,India,9-11 years,6-8 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
-363,India,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
-364,United States,6-8 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-365,United States,6-8 years,6-8 years,Moderately satisfied,Slightly dissatisfied,Female
-366,Germany,0-2 years,0-2 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
-367,Saudi Arabia,3-5 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
-368,United States,3-5 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
-369,United States,0-2 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
-370,United States,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-371,Australia,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
-372,United States,9-11 years,3-5 years,Slightly dissatisfied,Extremely satisfied,Female
-373,United Kingdom,3-5 years,3-5 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
-374,United States,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
-375,United States,21-23 years,21-23 years,Moderately satisfied,Moderately satisfied,Female
-376,United Kingdom,9-11 years,NA,NA,NA,Female
-377,Morocco,6-8 years,0-2 years,Neither satisfied nor dissatisfied,Slightly satisfied,Female
-378,Brazil,3-5 years,0-2 years,Slightly dissatisfied,Neither satisfied nor dissatisfied,Female
-379,United States,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-380,Australia,18-20 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
-381,United States,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-382,United Kingdom,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
-383,India,3-5 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
-384,Germany,30 or more years,30 or more years,Extremely satisfied,Moderately satisfied,Female
-385,Brazil,12-14 years,9-11 years,Moderately satisfied,Slightly satisfied,Female
-386,Germany,3-5 years,0-2 years,Slightly satisfied,Extremely satisfied,Female
-387,United States,6-8 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
-388,Czech Republic,9-11 years,0-2 years,Extremely satisfied,Neither satisfied nor dissatisfied,Female
-389,United States,9-11 years,9-11 years,Moderately dissatisfied,Slightly dissatisfied,Female
-390,India,6-8 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-391,United States,3-5 years,0-2 years,Moderately dissatisfied,Moderately satisfied,Female
-392,United States,3-5 years,3-5 years,Extremely satisfied,Moderately satisfied,Female
-393,India,3-5 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,Female
-394,United States,18-20 years,18-20 years,Slightly satisfied,Extremely satisfied,Female
-395,Canada,6-8 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
-396,India,9-11 years,3-5 years,Moderately dissatisfied,Moderately dissatisfied,Female
-397,India,3-5 years,0-2 years,NA,Moderately satisfied,Female
-398,Russian Federation,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-399,Canada,3-5 years,3-5 years,Moderately satisfied,Slightly dissatisfied,Female
-400,France,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
-401,Australia,9-11 years,0-2 years,Extremely dissatisfied,Extremely dissatisfied,Female
-402,United Kingdom,15-17 years,6-8 years,Slightly satisfied,Moderately satisfied,Female
-403,Canada,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
-404,United States,3-5 years,0-2 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
-405,Poland,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-406,United States,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-407,United States,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
-408,Taiwan,0-2 years,0-2 years,Moderately dissatisfied,Moderately satisfied,Female
-409,Brazil,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-410,India,9-11 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
-411,United States,6-8 years,6-8 years,Extremely dissatisfied,Slightly satisfied,Female
-412,India,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
-413,Romania,12-14 years,9-11 years,Moderately satisfied,Moderately satisfied,Female
-414,Georgia,9-11 years,9-11 years,Moderately satisfied,Slightly satisfied,Female
-415,United States,21-23 years,21-23 years,Extremely satisfied,Extremely satisfied,Female
-416,Argentina,30 or more years,18-20 years,Moderately satisfied,Moderately satisfied,Female
-417,United States,6-8 years,3-5 years,Extremely satisfied,Slightly satisfied,Female
 418,Jordan,3-5 years,0-2 years,Extremely dissatisfied,Extremely dissatisfied,Female
-419,United States,9-11 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-420,Switzerland,3-5 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
-421,United States,3-5 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
-422,Armenia,3-5 years,3-5 years,Moderately satisfied,Moderately dissatisfied,Female
-423,Switzerland,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
-424,United States,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-425,Australia,6-8 years,3-5 years,Extremely dissatisfied,Slightly dissatisfied,Female
-426,Switzerland,6-8 years,3-5 years,Extremely satisfied,Moderately satisfied,Female
-427,United States,6-8 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
-428,United Kingdom,3-5 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
-429,United States,0-2 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
-430,Israel,6-8 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
-431,Germany,6-8 years,6-8 years,Extremely satisfied,Moderately satisfied,Female
-432,United States,6-8 years,3-5 years,Moderately dissatisfied,Slightly dissatisfied,Female
-433,Brazil,6-8 years,0-2 years,Slightly dissatisfied,Moderately satisfied,Female
-434,Colombia,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-435,United States,3-5 years,3-5 years,Extremely dissatisfied,Extremely dissatisfied,Female
-436,India,9-11 years,6-8 years,Slightly satisfied,Slightly satisfied,Female
-437,Ukraine,9-11 years,3-5 years,Extremely satisfied,Moderately satisfied,Female
-438,United States,3-5 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
-439,United States,6-8 years,0-2 years,Slightly dissatisfied,Moderately satisfied,Female
-440,United States,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
-441,United States,30 or more years,NA,NA,NA,Female
-442,Canada,6-8 years,3-5 years,Slightly satisfied,Extremely satisfied,Female
-443,Sweden,15-17 years,6-8 years,Extremely satisfied,Extremely satisfied,Female
-444,Canada,6-8 years,3-5 years,Moderately dissatisfied,Slightly satisfied,Female
-445,Italy,6-8 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
-446,Argentina,9-11 years,9-11 years,Extremely satisfied,Extremely satisfied,Female
-447,Singapore,3-5 years,3-5 years,Extremely dissatisfied,Extremely satisfied,Female
-448,United States,30 or more years,30 or more years,Moderately satisfied,Moderately satisfied,Female
-449,Philippines,18-20 years,9-11 years,Extremely dissatisfied,Extremely dissatisfied,Female
-450,United States,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-451,United States,9-11 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
-452,Sri Lanka,6-8 years,3-5 years,Neither satisfied nor dissatisfied,Slightly dissatisfied,Female
-453,Argentina,6-8 years,6-8 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
-454,Ukraine,0-2 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
-455,Bulgaria,9-11 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-456,Poland,12-14 years,6-8 years,Slightly satisfied,Slightly satisfied,Female
-457,India,3-5 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
-458,United Kingdom,9-11 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
-459,Japan,3-5 years,3-5 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
-460,India,3-5 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
-461,Australia,9-11 years,9-11 years,Slightly dissatisfied,Slightly satisfied,Female
-462,Netherlands,18-20 years,18-20 years,Moderately dissatisfied,Moderately dissatisfied,Female
-463,India,6-8 years,6-8 years,Moderately dissatisfied,Moderately dissatisfied,Female
-464,Croatia,12-14 years,6-8 years,Moderately satisfied,Slightly satisfied,Female
-465,Canada,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-466,United States,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-467,United Kingdom,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-468,India,6-8 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
-469,Russian Federation,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
-470,Belarus,6-8 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
-471,United States,0-2 years,NA,NA,NA,Female
-472,United Kingdom,3-5 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
-473,United States,3-5 years,3-5 years,Slightly dissatisfied,Moderately satisfied,Female
-474,India,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-475,South Africa,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,Female
-476,United States,12-14 years,6-8 years,Slightly satisfied,Moderately satisfied,Female
-477,United States,30 or more years,21-23 years,Extremely satisfied,Moderately satisfied,Female
-478,India,0-2 years,0-2 years,Extremely dissatisfied,Neither satisfied nor dissatisfied,Female
-479,France,12-14 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
-480,Serbia,0-2 years,NA,NA,NA,Female
-481,Iceland,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
-482,India,6-8 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
-483,New Zealand,21-23 years,15-17 years,Moderately satisfied,Moderately satisfied,Female
-484,India,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-485,Germany,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
-486,Malaysia,3-5 years,0-2 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
-487,United States,3-5 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
-488,Australia,6-8 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
-489,Germany,9-11 years,6-8 years,Slightly satisfied,Slightly dissatisfied,Female
-490,Ukraine,3-5 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
-491,India,3-5 years,3-5 years,Slightly dissatisfied,Moderately satisfied,Female
-492,India,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-493,India,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-494,Bulgaria,3-5 years,3-5 years,Extremely satisfied,Moderately satisfied,Female
-495,Germany,0-2 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
-496,Germany,0-2 years,0-2 years,Moderately dissatisfied,Extremely satisfied,Female
-497,United States,9-11 years,6-8 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
-498,Hong Kong (S.A.R.),9-11 years,3-5 years,Slightly dissatisfied,Slightly satisfied,Female
-499,India,0-2 years,0-2 years,NA,Extremely satisfied,Female
-500,United States,12-14 years,9-11 years,Slightly satisfied,Moderately satisfied,Female
-501,Philippines,9-11 years,3-5 years,Slightly satisfied,Slightly satisfied,Female
-502,Italy,0-2 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
-503,United States,18-20 years,18-20 years,Moderately satisfied,Moderately satisfied,Female
-504,Philippines,3-5 years,3-5 years,Moderately dissatisfied,Slightly satisfied,Female
-505,United States,15-17 years,6-8 years,Slightly satisfied,Slightly satisfied,Female
-506,Argentina,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-507,Denmark,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,Female
-508,South Korea,3-5 years,3-5 years,Moderately dissatisfied,Moderately dissatisfied,Female
-509,Israel,0-2 years,0-2 years,Moderately dissatisfied,Slightly dissatisfied,Female
-510,United States,3-5 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
-511,United Kingdom,0-2 years,NA,NA,NA,Female
-512,Ukraine,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
-513,United States,12-14 years,9-11 years,Extremely satisfied,Moderately satisfied,Female
-514,Ukraine,6-8 years,3-5 years,Slightly satisfied,Slightly dissatisfied,Female
-515,United States,3-5 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
-516,Netherlands,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-517,Nigeria,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
-518,Myanmar,6-8 years,NA,NA,NA,Female
-519,"Iran, Islamic Republic of...",6-8 years,3-5 years,Slightly dissatisfied,Slightly satisfied,Female
-520,United States,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
-521,Paraguay,9-11 years,6-8 years,Slightly dissatisfied,Moderately satisfied,Female
-522,Russian Federation,6-8 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
-523,United States,12-14 years,9-11 years,Slightly satisfied,Moderately satisfied,Female
-524,United States,3-5 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
-525,United Kingdom,24-26 years,18-20 years,Moderately dissatisfied,Neither satisfied nor dissatisfied,Female
-526,United States,12-14 years,12-14 years,Extremely satisfied,Moderately satisfied,Female
-527,Russian Federation,6-8 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
-528,Poland,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
-529,United States,0-2 years,NA,NA,NA,Female
-530,Sweden,9-11 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
-531,France,3-5 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
-532,India,3-5 years,0-2 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
-533,Hong Kong (S.A.R.),3-5 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,Female
-534,Russian Federation,15-17 years,9-11 years,Slightly satisfied,Slightly satisfied,Female
-535,Brazil,6-8 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,Female
-536,India,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+401,Australia,9-11 years,0-2 years,Extremely dissatisfied,Extremely dissatisfied,Female
+593,United States,18-20 years,18-20 years,Extremely dissatisfied,Extremely dissatisfied,Female
 537,Israel,3-5 years,3-5 years,Extremely dissatisfied,Extremely dissatisfied,Female
-538,United States,6-8 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
-539,United States,0-2 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
-540,Finland,6-8 years,0-2 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
-541,United States,18-20 years,18-20 years,Extremely satisfied,Moderately satisfied,Female
-542,India,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-543,Australia,9-11 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
-544,Spain,6-8 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
-545,Netherlands,0-2 years,0-2 years,Moderately dissatisfied,Slightly satisfied,Female
-546,Netherlands,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-547,Spain,3-5 years,NA,NA,NA,Female
-548,United States,0-2 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
-549,United States,0-2 years,0-2 years,Slightly dissatisfied,Extremely satisfied,Female
-550,Czech Republic,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+435,United States,3-5 years,3-5 years,Extremely dissatisfied,Extremely dissatisfied,Female
+308,Mexico,9-11 years,3-5 years,Extremely dissatisfied,Extremely dissatisfied,Female
+449,Philippines,18-20 years,9-11 years,Extremely dissatisfied,Extremely dissatisfied,Female
 551,Israel,12-14 years,6-8 years,Moderately dissatisfied,Extremely dissatisfied,Female
-552,United States,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+585,India,3-5 years,3-5 years,Moderately satisfied,Extremely dissatisfied,Female
+354,Thailand,6-8 years,0-2 years,Neither satisfied nor dissatisfied,Extremely dissatisfied,Female
+447,Singapore,3-5 years,3-5 years,Extremely dissatisfied,Extremely satisfied,Female
+357,United States,0-2 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+583,United States,0-2 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+591,United States,0-2 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+531,France,3-5 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+472,United Kingdom,3-5 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+368,United States,3-5 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+566,Austria,6-8 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+468,India,6-8 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+445,Italy,6-8 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
+415,United States,21-23 years,21-23 years,Extremely satisfied,Extremely satisfied,Female
+412,India,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
+517,Nigeria,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
+382,United Kingdom,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
+440,United States,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
+580,United States,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
+592,United States,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
+470,Belarus,6-8 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
+443,Sweden,15-17 years,6-8 years,Extremely satisfied,Extremely satisfied,Female
+322,Australia,6-8 years,6-8 years,Extremely satisfied,Extremely satisfied,Female
+571,Brazil,24-26 years,9-11 years,Extremely satisfied,Extremely satisfied,Female
+446,Argentina,9-11 years,9-11 years,Extremely satisfied,Extremely satisfied,Female
+496,Germany,0-2 years,0-2 years,Moderately dissatisfied,Extremely satisfied,Female
+586,Germany,15-17 years,3-5 years,Moderately dissatisfied,Extremely satisfied,Female
+454,Ukraine,0-2 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
+539,United States,0-2 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
+559,Bulgaria,3-5 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
+358,Turkey,3-5 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
+337,United States,3-5 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
+487,United States,3-5 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
+317,India,6-8 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
+479,France,12-14 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
+333,United States,3-5 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
+524,United States,3-5 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
+488,Australia,6-8 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
+543,Australia,9-11 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
+410,India,9-11 years,3-5 years,Moderately satisfied,Extremely satisfied,Female
+562,United States,12-14 years,9-11 years,Moderately satisfied,Extremely satisfied,Female
+341,Bosnia and Herzegovina,6-8 years,9-11 years,Moderately satisfied,Extremely satisfied,Female
+549,United States,0-2 years,0-2 years,Slightly dissatisfied,Extremely satisfied,Female
+334,India,18-20 years,18-20 years,Slightly dissatisfied,Extremely satisfied,Female
+349,India,6-8 years,3-5 years,Slightly dissatisfied,Extremely satisfied,Female
+372,United States,9-11 years,3-5 years,Slightly dissatisfied,Extremely satisfied,Female
+386,Germany,3-5 years,0-2 years,Slightly satisfied,Extremely satisfied,Female
+394,United States,18-20 years,18-20 years,Slightly satisfied,Extremely satisfied,Female
+296,India,0-2 years,3-5 years,Slightly satisfied,Extremely satisfied,Female
+442,Canada,6-8 years,3-5 years,Slightly satisfied,Extremely satisfied,Female
 553,India,6-8 years,6-8 years,Slightly satisfied,Extremely satisfied,Female
+502,Italy,0-2 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
+369,United States,0-2 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
+457,India,3-5 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
+395,Canada,6-8 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
+557,Sweden,9-11 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
+462,Netherlands,18-20 years,18-20 years,Moderately dissatisfied,Moderately dissatisfied,Female
+304,Brazil,3-5 years,3-5 years,Moderately dissatisfied,Moderately dissatisfied,Female
+508,South Korea,3-5 years,3-5 years,Moderately dissatisfied,Moderately dissatisfied,Female
+396,India,9-11 years,3-5 years,Moderately dissatisfied,Moderately dissatisfied,Female
+463,India,6-8 years,6-8 years,Moderately dissatisfied,Moderately dissatisfied,Female
+326,India,0-2 years,0-2 years,Moderately satisfied,Moderately dissatisfied,Female
+422,Armenia,3-5 years,3-5 years,Moderately satisfied,Moderately dissatisfied,Female
+570,India,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Moderately dissatisfied,Female
+336,United States,3-5 years,3-5 years,Neither satisfied nor dissatisfied,Moderately dissatisfied,Female
+360,Canada,3-5 years,0-2 years,Slightly dissatisfied,Moderately dissatisfied,Female
+561,Paraguay,6-8 years,3-5 years,Slightly dissatisfied,Moderately dissatisfied,Female
+303,Brazil,6-8 years,6-8 years,Slightly dissatisfied,Moderately dissatisfied,Female
+558,Belarus,0-2 years,0-2 years,Slightly satisfied,Moderately dissatisfied,Female
+565,"Iran, Islamic Republic of...",27-29 years,18-20 years,Slightly satisfied,Moderately dissatisfied,Female
+350,South Korea,15-17 years,9-11 years,Slightly satisfied,Moderately dissatisfied,Female
+297,United States,6-8 years,0-2 years,Extremely dissatisfied,Moderately satisfied,Female
+577,United Kingdom,0-2 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
+323,United States,0-2 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
+548,United States,0-2 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
+428,United Kingdom,3-5 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
+421,United States,3-5 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
+387,United States,6-8 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
+526,United States,12-14 years,12-14 years,Extremely satisfied,Moderately satisfied,Female
+541,United States,18-20 years,18-20 years,Extremely satisfied,Moderately satisfied,Female
+477,United States,30 or more years,21-23 years,Extremely satisfied,Moderately satisfied,Female
+494,Bulgaria,3-5 years,3-5 years,Extremely satisfied,Moderately satisfied,Female
+392,United States,3-5 years,3-5 years,Extremely satisfied,Moderately satisfied,Female
+426,Switzerland,6-8 years,3-5 years,Extremely satisfied,Moderately satisfied,Female
+437,Ukraine,9-11 years,3-5 years,Extremely satisfied,Moderately satisfied,Female
+384,Germany,30 or more years,30 or more years,Extremely satisfied,Moderately satisfied,Female
+316,United Kingdom,12-14 years,6-8 years,Extremely satisfied,Moderately satisfied,Female
+431,Germany,6-8 years,6-8 years,Extremely satisfied,Moderately satisfied,Female
+315,France,9-11 years,6-8 years,Extremely satisfied,Moderately satisfied,Female
+513,United States,12-14 years,9-11 years,Extremely satisfied,Moderately satisfied,Female
+313,United States,15-17 years,9-11 years,Extremely satisfied,Moderately satisfied,Female
+408,Taiwan,0-2 years,0-2 years,Moderately dissatisfied,Moderately satisfied,Female
+391,United States,3-5 years,0-2 years,Moderately dissatisfied,Moderately satisfied,Female
 554,United States,3-5 years,0-2 years,Moderately dissatisfied,Moderately satisfied,Female
 555,Netherlands,3-5 years,3-5 years,Moderately dissatisfied,Moderately satisfied,Female
-556,India,3-5 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,Female
-557,Sweden,9-11 years,0-2 years,Moderately dissatisfied,Moderately dissatisfied,Female
-558,Belarus,0-2 years,0-2 years,Slightly satisfied,Moderately dissatisfied,Female
-559,Bulgaria,3-5 years,0-2 years,Moderately satisfied,Extremely satisfied,Female
-560,United Kingdom,9-11 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
-561,Paraguay,6-8 years,3-5 years,Slightly dissatisfied,Moderately dissatisfied,Female
-562,United States,12-14 years,9-11 years,Moderately satisfied,Extremely satisfied,Female
-563,Germany,12-14 years,9-11 years,Moderately satisfied,Moderately satisfied,Female
-564,The former Yugoslav Republic of Macedonia,0-2 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
-565,"Iran, Islamic Republic of...",27-29 years,18-20 years,Slightly satisfied,Moderately dissatisfied,Female
-566,Austria,6-8 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
-567,United Kingdom,9-11 years,6-8 years,Moderately dissatisfied,Slightly satisfied,Female
-568,United States,6-8 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
-569,India,3-5 years,3-5 years,Moderately satisfied,Slightly dissatisfied,Female
-570,India,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Moderately dissatisfied,Female
-571,Brazil,24-26 years,9-11 years,Extremely satisfied,Extremely satisfied,Female
-572,Japan,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+298,United States,3-5 years,3-5 years,Moderately dissatisfied,Moderately satisfied,Female
+506,Argentina,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+340,India,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+492,India,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+542,India,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+516,Netherlands,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+546,Netherlands,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+351,United States,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+381,United States,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+406,United States,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+552,United States,0-2 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+356,Chile,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+434,Colombia,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+550,Czech Republic,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+305,India,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+493,India,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+398,Russian Federation,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+424,United States,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+466,United States,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
 573,United States,3-5 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-574,United States,15-17 years,9-11 years,Moderately satisfied,Moderately satisfied,Female
-575,Brazil,0-2 years,0-2 years,Moderately dissatisfied,Slightly dissatisfied,Female
-576,Turkey,3-5 years,0-2 years,Slightly dissatisfied,Moderately satisfied,Female
-577,United Kingdom,0-2 years,0-2 years,Extremely satisfied,Moderately satisfied,Female
-578,Germany,6-8 years,3-5 years,Slightly dissatisfied,Slightly satisfied,Female
-579,India,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
-580,United States,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
-581,United States,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
-582,Australia,6-8 years,6-8 years,Slightly satisfied,Moderately satisfied,Female
-583,United States,0-2 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
 584,France,6-8 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
-585,India,3-5 years,3-5 years,Moderately satisfied,Extremely dissatisfied,Female
-586,Germany,15-17 years,3-5 years,Moderately dissatisfied,Extremely satisfied,Female
-587,Singapore,3-5 years,3-5 years,Moderately satisfied,Neither satisfied nor dissatisfied,Female
-588,India,3-5 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+390,India,6-8 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+364,United States,6-8 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+419,United States,9-11 years,0-2 years,Moderately satisfied,Moderately satisfied,Female
+306,India,15-17 years,12-14 years,Moderately satisfied,Moderately satisfied,Female
+483,New Zealand,21-23 years,15-17 years,Moderately satisfied,Moderately satisfied,Female
+503,United States,18-20 years,18-20 years,Moderately satisfied,Moderately satisfied,Female
+330,Israel,21-23 years,18-20 years,Moderately satisfied,Moderately satisfied,Female
+416,Argentina,30 or more years,18-20 years,Moderately satisfied,Moderately satisfied,Female
+375,United States,21-23 years,21-23 years,Moderately satisfied,Moderately satisfied,Female
+331,United States,12-14 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+409,Brazil,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+348,Germany,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+474,India,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+484,India,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+572,Japan,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+512,Ukraine,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+379,United States,3-5 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+465,Canada,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+311,Germany,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+405,Poland,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+467,United Kingdom,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+346,United States,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+370,United States,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+450,United States,6-8 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+455,Bulgaria,9-11 years,3-5 years,Moderately satisfied,Moderately satisfied,Female
+448,United States,30 or more years,30 or more years,Moderately satisfied,Moderately satisfied,Female
+482,India,6-8 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
+430,Israel,6-8 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
+427,United States,6-8 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
+568,United States,6-8 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
+458,United Kingdom,9-11 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
+560,United Kingdom,9-11 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
+451,United States,9-11 years,6-8 years,Moderately satisfied,Moderately satisfied,Female
+563,Germany,12-14 years,9-11 years,Moderately satisfied,Moderately satisfied,Female
+413,Romania,12-14 years,9-11 years,Moderately satisfied,Moderately satisfied,Female
+574,United States,15-17 years,9-11 years,Moderately satisfied,Moderately satisfied,Female
+363,India,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
+361,India,3-5 years,0-2 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
+404,United States,3-5 years,0-2 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
+373,United Kingdom,3-5 years,3-5 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
+362,India,9-11 years,6-8 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
 589,United States,18-20 years,9-11 years,Neither satisfied nor dissatisfied,Moderately satisfied,Female
+576,Turkey,3-5 years,0-2 years,Slightly dissatisfied,Moderately satisfied,Female
+433,Brazil,6-8 years,0-2 years,Slightly dissatisfied,Moderately satisfied,Female
+439,United States,6-8 years,0-2 years,Slightly dissatisfied,Moderately satisfied,Female
+318,United States,9-11 years,0-2 years,Slightly dissatisfied,Moderately satisfied,Female
+491,India,3-5 years,3-5 years,Slightly dissatisfied,Moderately satisfied,Female
+473,United States,3-5 years,3-5 years,Slightly dissatisfied,Moderately satisfied,Female
+521,Paraguay,9-11 years,6-8 years,Slightly dissatisfied,Moderately satisfied,Female
+339,Sri Lanka,0-2 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
+481,Iceland,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
+579,India,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
+469,Russian Federation,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
 590,Slovakia,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
-591,United States,0-2 years,0-2 years,Extremely satisfied,Extremely satisfied,Female
-592,United States,3-5 years,3-5 years,Extremely satisfied,Extremely satisfied,Female
-593,United States,18-20 years,18-20 years,Extremely dissatisfied,Extremely dissatisfied,Female
-29,,,,,,
-6577,,,,,,
-51,,,,,,
-1354,,,,,,
-2069,,,,,,
-2260,,,,,,
-3181,,,,,,
-4497,,,,,,
-4959,,,,,,
-5125,,,,,,
-8898,,,,,,
-52,,,,,,
-1586,,,,,,
-2832,,,,,,
-3294,,,,,,
-3361,,,,,,
-3753,,,,,,
-4246,,,,,,
-4315,,,,,,
-4947,,,,,,
-5428,,,,,,
-5701,,,,,,
-7058,,,,,,
-8398,,,,,,
-9122,,,,,,
-60688,,,,,,
-3941,,,,,,
-291,,,,,,
-1311,,,,,,
-1926,,,,,,
-55891,,,,,,
-5765,,,,,,
-5965,,,,,,
-6265,,,,,,
-41387,,,,,,
-9269,,,,,,
-89364,,,,,,
-4695,,,,,,
-58981,,,,,,
-1431,,,,,,
-5430,,,,,,
-8382,,,,,,
-674,,,,,,
-4220,,,,,,
-79586,,,,,,
-731,,,,,,
-7603,,,,,,
-738,,,,,,
-6143,,,,,,
-740,,,,,,
-1553,,,,,,
-2964,,,,,,
-3800,,,,,,
-8247,,,,,,
-8329,,,,,,
-771,,,,,,
-9059,,,,,,
-807,,,,,,
-8839,,,,,,
-908,,,,,,
-5802,,,,,,
-6578,,,,,,
-7047,,,,,,
-7236,,,,,,
-7348,,,,,,
-946,,,,,,
-1110,,,,,,
-2126,,,,,,
-4962,,,,,,
-6047,,,,,,
-7341,,,,,,
-9308,,,,,,
-82842,,,,,,
-1239,,,,,,
-2048,,,,,,
-6274,,,,,,
-8011,,,,,,
-1814,,,,,,
-7930,,,,,,
-8286,,,,,,
-9435,,,,,,
-9741,,,,,,
-1849,,,,,,
-4000,,,,,,
-4192,,,,,,
-7215,,,,,,
-7786,,,,,,
-2111,,,,,,
-4751,,,,,,
-2447,,,,,,
-4545,,,,,,
-2500,,,,,,
-3876,,,,,,
-6976,,,,,,
-9338,,,,,,
-3118,,,,,,
-5575,,,,,,
-3121,,,,,,
-92236,,,,,,
-9687,,,,,,
-3276,,,,,,
-5928,,,,,,
-3401,,,,,,
-8503,,,,,,
-8901,,,,,,
-3594,,,,,,
-5511,,,,,,
-5106,,,,,,
-5806,,,,,,
-5278,,,,,,
-8702,,,,,,
-5545,,,,,,
-7529,,,,,,
-5975,,,,,,
-9187,,,,,,
-6713,,,,,,
-79540,,,,,,
-9725,,,,,,
-7069,,,,,,
-8181,,,,,,
-7234,,,,,,
-7395,,,,,,
+423,Switzerland,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
+352,United States,3-5 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
+321,Belgium,6-8 years,0-2 years,Slightly satisfied,Moderately satisfied,Female
+347,Germany,15-17 years,12-14 years,Slightly satisfied,Moderately satisfied,Female
+295,Nigeria,0-2 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
+301,Brazil,3-5 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
+367,Saudi Arabia,3-5 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
+438,United States,3-5 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
+515,United States,3-5 years,3-5 years,Slightly satisfied,Moderately satisfied,Female
+476,United States,12-14 years,6-8 years,Slightly satisfied,Moderately satisfied,Female
+402,United Kingdom,15-17 years,6-8 years,Slightly satisfied,Moderately satisfied,Female
+582,Australia,6-8 years,6-8 years,Slightly satisfied,Moderately satisfied,Female
+500,United States,12-14 years,9-11 years,Slightly satisfied,Moderately satisfied,Female
+523,United States,12-14 years,9-11 years,Slightly satisfied,Moderately satisfied,Female
+478,India,0-2 years,0-2 years,Extremely dissatisfied,Neither satisfied nor dissatisfied,Female
+388,Czech Republic,9-11 years,0-2 years,Extremely satisfied,Neither satisfied nor dissatisfied,Female
+525,United Kingdom,24-26 years,18-20 years,Moderately dissatisfied,Neither satisfied nor dissatisfied,Female
+302,Germany,6-8 years,0-2 years,Moderately satisfied,Neither satisfied nor dissatisfied,Female
+587,Singapore,3-5 years,3-5 years,Moderately satisfied,Neither satisfied nor dissatisfied,Female
+343,Germany,6-8 years,3-5 years,Moderately satisfied,Neither satisfied nor dissatisfied,Female
+344,Nigeria,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
+300,Ukraine,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
+532,India,3-5 years,0-2 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
+486,Malaysia,3-5 years,0-2 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
+329,Bulgaria,12-14 years,12-14 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
+309,United States,12-14 years,6-8 years,Neither satisfied nor dissatisfied,Neither satisfied nor dissatisfied,Female
+378,Brazil,3-5 years,0-2 years,Slightly dissatisfied,Neither satisfied nor dissatisfied,Female
+366,Germany,0-2 years,0-2 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
+540,Finland,6-8 years,0-2 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
+320,India,3-5 years,3-5 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
+459,Japan,3-5 years,3-5 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
+453,Argentina,6-8 years,6-8 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
+497,United States,9-11 years,6-8 years,Slightly satisfied,Neither satisfied nor dissatisfied,Female
+425,Australia,6-8 years,3-5 years,Extremely dissatisfied,Slightly dissatisfied,Female
+575,Brazil,0-2 years,0-2 years,Moderately dissatisfied,Slightly dissatisfied,Female
+509,Israel,0-2 years,0-2 years,Moderately dissatisfied,Slightly dissatisfied,Female
+319,United Kingdom,0-2 years,0-2 years,Moderately dissatisfied,Slightly dissatisfied,Female
+307,United States,3-5 years,3-5 years,Moderately dissatisfied,Slightly dissatisfied,Female
+432,United States,6-8 years,3-5 years,Moderately dissatisfied,Slightly dissatisfied,Female
+389,United States,9-11 years,9-11 years,Moderately dissatisfied,Slightly dissatisfied,Female
+399,Canada,3-5 years,3-5 years,Moderately satisfied,Slightly dissatisfied,Female
+569,India,3-5 years,3-5 years,Moderately satisfied,Slightly dissatisfied,Female
+342,Romania,9-11 years,3-5 years,Moderately satisfied,Slightly dissatisfied,Female
+365,United States,6-8 years,6-8 years,Moderately satisfied,Slightly dissatisfied,Female
+452,Sri Lanka,6-8 years,3-5 years,Neither satisfied nor dissatisfied,Slightly dissatisfied,Female
+533,Hong Kong (S.A.R.),3-5 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,Female
+393,India,3-5 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,Female
+556,India,3-5 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,Female
+535,Brazil,6-8 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,Female
+310,United States,30 or more years,30 or more years,Slightly dissatisfied,Slightly dissatisfied,Female
+332,India,0-2 years,0-2 years,Slightly satisfied,Slightly dissatisfied,Female
+327,Russian Federation,3-5 years,0-2 years,Slightly satisfied,Slightly dissatisfied,Female
+514,Ukraine,6-8 years,3-5 years,Slightly satisfied,Slightly dissatisfied,Female
+489,Germany,9-11 years,6-8 years,Slightly satisfied,Slightly dissatisfied,Female
+411,United States,6-8 years,6-8 years,Extremely dissatisfied,Slightly satisfied,Female
+417,United States,6-8 years,3-5 years,Extremely satisfied,Slightly satisfied,Female
+545,Netherlands,0-2 years,0-2 years,Moderately dissatisfied,Slightly satisfied,Female
+314,United States,24-26 years,24-26 years,Moderately dissatisfied,Slightly satisfied,Female
+504,Philippines,3-5 years,3-5 years,Moderately dissatisfied,Slightly satisfied,Female
+444,Canada,6-8 years,3-5 years,Moderately dissatisfied,Slightly satisfied,Female
+567,United Kingdom,9-11 years,6-8 years,Moderately dissatisfied,Slightly satisfied,Female
+335,Spain,0-2 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
+403,Canada,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
+528,Poland,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
+374,United States,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
+407,United States,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
+581,United States,3-5 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
+544,Spain,6-8 years,0-2 years,Moderately satisfied,Slightly satisfied,Female
+420,Switzerland,3-5 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+490,Ukraine,3-5 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+371,Australia,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+400,France,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+485,Germany,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+536,India,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+520,United States,6-8 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+530,Sweden,9-11 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+328,United Kingdom,9-11 years,3-5 years,Moderately satisfied,Slightly satisfied,Female
+464,Croatia,12-14 years,6-8 years,Moderately satisfied,Slightly satisfied,Female
+385,Brazil,12-14 years,9-11 years,Moderately satisfied,Slightly satisfied,Female
+414,Georgia,9-11 years,9-11 years,Moderately satisfied,Slightly satisfied,Female
+324,India,0-2 years,0-2 years,Neither satisfied nor dissatisfied,Slightly satisfied,Female
+377,Morocco,6-8 years,0-2 years,Neither satisfied nor dissatisfied,Slightly satisfied,Female
+564,The former Yugoslav Republic of Macedonia,0-2 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
+429,United States,0-2 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
+380,Australia,18-20 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
+325,Finland,3-5 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
+510,United States,3-5 years,0-2 years,Slightly dissatisfied,Slightly satisfied,Female
+345,United States,12-14 years,12-14 years,Slightly dissatisfied,Slightly satisfied,Female
+578,Germany,6-8 years,3-5 years,Slightly dissatisfied,Slightly satisfied,Female
+519,"Iran, Islamic Republic of...",6-8 years,3-5 years,Slightly dissatisfied,Slightly satisfied,Female
+355,Italy,6-8 years,3-5 years,Slightly dissatisfied,Slightly satisfied,Female
+498,Hong Kong (S.A.R.),9-11 years,3-5 years,Slightly dissatisfied,Slightly satisfied,Female
+461,Australia,9-11 years,9-11 years,Slightly dissatisfied,Slightly satisfied,Female
+495,Germany,0-2 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+338,Philippines,0-2 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+383,India,3-5 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+460,India,3-5 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+588,India,3-5 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+522,Russian Federation,6-8 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+527,Russian Federation,6-8 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+538,United States,6-8 years,0-2 years,Slightly satisfied,Slightly satisfied,Female
+359,United States,6-8 years,3-5 years,Slightly satisfied,Slightly satisfied,Female
+501,Philippines,9-11 years,3-5 years,Slightly satisfied,Slightly satisfied,Female
+456,Poland,12-14 years,6-8 years,Slightly satisfied,Slightly satisfied,Female
+505,United States,15-17 years,6-8 years,Slightly satisfied,Slightly satisfied,Female
+436,India,9-11 years,6-8 years,Slightly satisfied,Slightly satisfied,Female
+534,Russian Federation,15-17 years,9-11 years,Slightly satisfied,Slightly satisfied,Female
+507,Denmark,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,Female
+475,South Africa,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,Female
